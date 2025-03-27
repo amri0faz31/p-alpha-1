@@ -1,0 +1,8 @@
+this is my first serious interaction with git
+
+
+welcome to COMPUTER SCIENCE
+
+second change:
+
+still figuring out "working" and "local" repo
