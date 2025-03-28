@@ -5,4 +5,13 @@ welcome to COMPUTER SCIENCE
 
 second change:
 
-still figuring out "working" and "local" repo
+
+still figuring out..
+... "working" and "local" repo
+
+
+figuring %git diff
+
+
+figuring out %git diff --staged
+

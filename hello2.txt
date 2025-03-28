@@ -1,4 +1,4 @@
-this is  2nd 
+this is  2nd
 
 "vi hello2.txt"
 
@@ -38,7 +38,9 @@ here the "hello2.txt" that in red (modified) is "git add..." again
 
 "git status " showed "hello2.txt" in GREEN
 
+______________
 
+git diff
 
 
 
